@@ -10,6 +10,7 @@ int main()
 
 	cout << "EDIT\n";
 	cout << "Hello World!" << endl;
+	cout << "Another EDIT" << endl;
 	system("PAUSE");
 	return 0;
 }
